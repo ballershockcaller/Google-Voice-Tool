@@ -35,4 +35,5 @@ Some caveats:
 2. Make sure your messages inside Google Messages are backed up first (if you want to keep those).
 3. This is only for SMS messages, not call logs or voicemails or anything else.
 4. Only .jpg images will be imported, not video files or GIFs.
+   
 
