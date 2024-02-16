@@ -1,4 +1,4 @@
-After years of trying to find a way to leverage my Google Takeout SMS history from Voice, I've hired a developer who has created a tool for me.
+After years of trying to find a way to leverage my Google Takeout SMS history from Voice, I've hired a developer who has created a tool for me.  If you would like to donate for this tool, you can buy me a cup of coffee. https://www.buymeacoffee.com/voicesmstool
 
 The script parses your Google Voice SMS history from Google Takeout, and gives you a single .xml file that can be read by SMS Backup and Restore. From there you can import your Google Voice text message history so Google Messages can read it.
 
@@ -36,4 +36,4 @@ Some caveats:
 3. This is only for SMS messages, not call logs or voicemails or anything else.
 4. Only .jpg images will be imported, not video files or GIFs.
    
-
+Hope you found this helpful. If so, feel free to buy me a cup of coffee. https://www.buymeacoffee.com/voicesmstool
