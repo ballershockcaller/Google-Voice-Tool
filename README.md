@@ -15,7 +15,7 @@ Steps:
 2. Download the zip file from Google Takeout.
 3. Unzip your Google Voice history to an easily found location (C:\Voice). Note that text messages are in the "Calls" folder.
 4. Copy all the .jpg images to a separate folder, called "Images".
-5. Disable "Real-Time protection" on your antivirus. 
+5. Add an exception to your anti-virus for the folder where you will unzip the tool.
 6. Open the zip file with GV Import Tool.exe, and run the .exe file. 
 7. In the "Input Files Folder Path" box, click "browse" and select the path where your "Calls" folder is stored (like C:\Voice\Calls).
 8. In the "Input Images Folder Path", click "browse" and select the path where your "Calls" folder is stored (like C:\Voice\Images).
